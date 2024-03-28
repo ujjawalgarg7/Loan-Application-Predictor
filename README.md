@@ -6,6 +6,6 @@ But when it comes to deciding whether the applicant’s profile is relevant to b
 
 So, here we will be using Machine Learning with Python to ease their work and predict whether the candidate’s profile is relevant or not using key features like Marital Status, Education, Applicant Income, Credit History, etc.
 
-# Conclusion : 
+## Conclusion : 
 
 Random Forest Classifier is giving the best accuracy with an accuracy score of 82% for the testing dataset. And to get much better results ensemble learning techniques like Bagging and Boosting can also be used.
