@@ -8,4 +8,4 @@ So, here we will be using Machine Learning with Python to ease their work and pr
 
 ## Conclusion : 
 
-Random Forest Classifier is giving the best accuracy with an accuracy score of 82% for the testing dataset. And to get much better results ensemble learning techniques like Bagging and Boosting can also be used.
+LogisticRegression is giving the best accuracy with an accuracy score of 85% for the testing dataset. And to get much better results ensemble learning techniques like Bagging and Boosting can also be used.
